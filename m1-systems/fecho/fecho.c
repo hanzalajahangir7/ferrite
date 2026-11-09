@@ -17,10 +17,10 @@ int main(int argc, char *argv[]){
         }
         fputs(argv[i], stdout);
     }
-    
+
     if (newline) {
         putchar('\n');
     }
 
     return 0;
-}   
+}
