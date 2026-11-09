@@ -1,0 +1,4 @@
+*.o
+/m1-systems/fecho/fecho
+.vscode/
+*.out
